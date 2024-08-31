@@ -13,8 +13,7 @@ This repository contains the code, data, and documentation for the Machine Learn
 - [Lab Tasks](#lab-tasks)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Project Structure
 
